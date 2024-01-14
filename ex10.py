@@ -1,0 +1,5 @@
+n1 = float(input('Quantos reais você possúi? R$'))
+a = (n1 / float(4.95))
+b = (n1 / float(5.41))
+print(f'Você consegue comprar US${a:.2f}')
+print(f'Você consegue comprar EUR${b:.2f}')

@@ -1,0 +1,5 @@
+n1 = int(input('Digite um valor: '))
+#s = n1 - int(1)
+#m = n1 + int(1)
+#print(f'O valor digitado é {n1}, o número anterior é {s} e o número posterior é {m}')
+print(f'O valor digitado é {n1}, o número anterior é {n1-1} e o número posterior é {n1+1}')

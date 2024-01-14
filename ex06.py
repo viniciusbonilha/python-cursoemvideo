@@ -1,0 +1,7 @@
+n1 = int(input('Digite um valor: '))
+#a = n1 * int(2)
+#b = n1 * int(3)
+#c = n1 ** (1/2)
+#print('O dobro do valor digitado é {}, o triplo é {} e a raiz quadrada é {}' .format(a,b,c))
+#print(f'O dobro do valor digitado é {a}, o triplo é {b} e a raiz quadrada é {c:.2f}')
+print(f'O dobro do valor digitado é {n1*2}, o triplo é {n1*3} e a raiz quadrada é {n1**(1/2):.2f}')
